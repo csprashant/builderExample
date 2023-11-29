@@ -8,6 +8,7 @@ private Boolean thread;
 private Model mdeol;
 private Model mdeols;
 private String gender;
+	private String  email;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
