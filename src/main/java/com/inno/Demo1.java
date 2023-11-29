@@ -4,6 +4,7 @@ public class Demo1 {
 private Integer id;
 private String name;
 private Boolean actived;
+private Boolean thread;
 private Model mdeol;
 
 	public static void main(String[] args) {
